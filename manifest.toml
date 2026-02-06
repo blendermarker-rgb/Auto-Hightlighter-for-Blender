@@ -1,0 +1,9 @@
+schema_version = "1.0"
+id = "auto_highlighter"
+version = "1.0"
+name = "Auto Highlighter"
+tagline = "Packaged with Add-on Packager Helper"
+maintainer = "Blendermark"
+license = ["SPDX:GPL-3.0-or-later"]
+blender_version_min = "4.5.0"
+type = "add-on"
